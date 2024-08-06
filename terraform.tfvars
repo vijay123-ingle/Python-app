@@ -1,0 +1,7 @@
+vpc_cidr = "10.0.0.0/16"
+public_subnet_cidr_block = "10.0.0.0/24"
+private_subnet_cidr_block = "10.0.1.0/24"
+aws_instance_ami = "ami-0ba9883b710b05ac6"
+my_instance_type = "t2.micro"
+public_availability_zone = "us-east-1a"
+private_availability_zone = "us-east-1b"
